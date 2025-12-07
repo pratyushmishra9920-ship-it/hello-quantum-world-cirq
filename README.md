@@ -131,6 +131,8 @@ If you’re curious about quantum computing, this repo is your invitation to sta
 If you’re into quantum computing, Cirq, Google Research, or emerging tech —  
 let’s connect and learn together.
 
+https://www.linkedin.com/in/pratyush-mishra-758a0339a/
+
 ---
 
 ## ⭐ If you found this project useful…
