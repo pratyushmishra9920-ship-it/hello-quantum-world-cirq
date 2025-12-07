@@ -100,8 +100,10 @@ Inside the notebook you can:
 ---
 
 ## 🎥 Demo Video (Optional)
-A short 20-second clip shows both circuits running inside Colab.  
-(You can embed this in the README once uploaded.)
+
+Here’s a short clip showing both the Bell State and Grover’s Algorithm running live in Google Colab:
+
+https://github.com/user-attachments/assets/0aecaa6d-07fe-4b8d-bd31-79a83ee1d3ac
 
 ---
 
