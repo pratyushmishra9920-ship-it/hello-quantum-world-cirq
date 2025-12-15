@@ -99,6 +99,14 @@ Inside the notebook you can:
 
 ---
 
+## 📘 Project Documentation (Notion)
+
+Detailed project notes, logic breakdown, and learnings:
+
+🔗 https://season-scar-99a.notion.site/Hello-Quantum-World-Cirq-Python-2ca7d627e6e580bebaccc5e1d3124d09?source=copy_link
+
+---
+
 ## 🎥 Demo Video (Optional)
 
 Here’s a short clip showing both the Bell State and Grover’s Algorithm running live in Google Colab:
